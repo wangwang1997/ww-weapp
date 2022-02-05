@@ -19,7 +19,7 @@ RUN mvn -s /app/settings.xml -f /app/pom.xml clean package
 FROM alpine:3.13
 
 ENV MYSQL_HOST 10.0.224.10
-ENV USERNAME root
+ENV USER_NAME root
 ENV PASSWORD Zjw970410
 ENV DATABASE_NAME ww-weapp
 

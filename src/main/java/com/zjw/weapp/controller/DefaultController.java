@@ -1,4 +1,4 @@
-package com.zjw._2022weapp.controller;
+package com.zjw.weapp.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

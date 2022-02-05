@@ -1,4 +1,4 @@
-package com.zjw._2022weapp;
+package com.zjw.weapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
